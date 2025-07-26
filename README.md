@@ -58,6 +58,14 @@ Após o download:
 
     Verifique o arquivo .env.example, que deve ser alterado para .env e alterado pro nome da pasta que escolheu pra extrair a pasta no campo APP_URL.
 
+
+🌐 Teste Disponível Online
+
+Você pode acessar e testar o sistema diretamente pela internet, através do link:
+
+🔗 [https://desafiocredito.bhcommerce.com.br/](https://desafiocredito.bhcommerce.com.br/)
+
+
 👨‍💻 Desenvolvedor
 
 Henrique Marcandier Marques Gonçalves

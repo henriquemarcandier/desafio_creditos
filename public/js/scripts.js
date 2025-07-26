@@ -1,7 +1,7 @@
 
         function consultar() {
             const resultadosDiv = document.getElementById('resultados');
-            resultadosDiv.innerHTML = '<img src="img/loader.gif" class="w-5 h-5"> Aguarde... Carregando...';
+            resultadosDiv.innerHTML = '<img src="img/loader.gif" class="w-5 h-5 float-left"> Aguarde... Carregando...';
             const cpf = document.getElementById('cpf').value;
 
             axios.post('api/consultar', { cpf })
